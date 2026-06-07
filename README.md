@@ -32,4 +32,4 @@ This project demonstrates proficiency in **Excel dashboard development, data ana
 decision-making purposes.
 
 ## Screenshot
-Dashboard: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png)
+Dashboard: ![Dashboard Preview](https://github.com/Shubham4967/Hospital_Emergency_Room_Dashboard-MS-Excel-/blob/main/Preview%20of%20Dashboard.png)
