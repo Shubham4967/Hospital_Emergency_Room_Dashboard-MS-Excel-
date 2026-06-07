@@ -30,3 +30,6 @@ The report includes dynamic filters for **Year and Month**, enabling users to ex
 
 This project demonstrates proficiency in **Excel dashboard development, data analysis, and data visualization**, showcasing the ability to transform healthcare data into meaningful insights for operational and
 decision-making purposes.
+
+## Screenshot
+Dashboard: ![Dashboard Preview](https://github.com/Shubham4967/Mobile_Sales_Dashboard/blob/main/Dashboard.png)
